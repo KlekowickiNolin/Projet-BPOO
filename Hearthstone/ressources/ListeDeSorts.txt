@@ -1,0 +1,23 @@
+Sort;Charge;1;Charge;NEUTRE
+Sort;Attaque Mentale;2;Attaque mentale;NEUTRE
+Sort;Choc de Flammes;7;Attaque massive;JAINA
+Sort;Eclair de givre;2;Attaque du givre;JAINA
+Sort;Intelligence des arcanes;2;Pioche;JAINA
+Sort;Image Miroir;1;Image miroir;JAINA
+Sort;Explosion Pyrotechnique;10;Explosion pyrotechnique;JAINA
+Sort;Marque du Chasseur;1;Marque du chasseur;REXXAR
+Sort;Tir des Arcanes;1;Tir des arcanes;REXXAR
+Sort;Lachez des chiens;3;Invocation des chiens;REXXAR
+Sort;Ordre de Tuer;3;Ordre de tuer;REXXAR
+Sort;Foudre;3;Attaque du givre;NEUTRE
+Serviteur;Chasse-marée murloc;2;2;1;Cri de guerre;NEUTRE
+Serviteur;Champion de Hurlevent;7;6;6;Bonus de hurlevent;NEUTRE
+Serviteur;Chef de raid;3;2;2;Bonus du chef de raid;NEUTRE
+Serviteur;Garde de Baie-du-butin;5;5;4;Provocation;NEUTRE
+Serviteur;Missilière téméraire;6;5;2;Charge;NEUTRE
+Serviteur;Ogre-magi;4;4;4;Provocation;NEUTRE
+Serviteur;Archimage;6;4;7;Provocation;NEUTRE
+Serviteur;Gnome lépreux;1;1;1;Attaque du lépreux;NEUTRE
+Serviteur;Golem des moissons;3;2;3;Golemisation;NEUTRE
+Serviteur;Busard affamé;5;3;2;Pioche;REXXAR
+Serviteur;Tralala;9;90;76;Explosion pyrotechnique;NEUTRE

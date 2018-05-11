@@ -1,0 +1,17 @@
+Attaque du givre;inflige 3 dégats à une cible;attaqueCiblee;3;arrivee;
+Attaque du lépreux;inflige 2 dégats au héros;attaqueDuHéros;2;arrivee;
+Attaque massive;attaque tous les serviteurs adverses à 4;attaqueTotale;4;arrivee
+Attaque mentale;inflige 5 dégats au héros;attaqueDuHéros;5;arrivee;
+Bonus de hurlevent;+1/+1 pour les serviteurs alliés;effetPermanent;+1/+1;arrivee+disparition
+Bonus du chef de raid;+1/0 pour les serviteurs alliés;effetPermanent;+1/0;arrivee+disparition
+Charge;permet à un serviteur de ne pas attendre pour attaquer;attaqueDirecte;0;arrivee
+Cri de guerre;invocation d'un serviteur 1/1;invocationServiteur;1/1;arrivee
+Explosion pyrotechnique;inflige 10 à une cible;attaqueCiblee;10;arrivee
+Golemisation;invoque Golem endommagé 2/1;invocationServiteur;2/1;arrivee
+Invocation des chiens;invoque des serviteurs chiens 1/1 avec charge;invocationServiteur;1/1;arrivee
+Image miroir;invocation 2 serviteurs 0/2;invocationServiteur;0/2;arrive
+Marque du chasseur;abaisse à 1 les PV du serviteur ciblé;attaqueCiblee;1;arrivee
+Ordre de tuer;inflige 3 dégats à une cible;attaqueCiblee;3;arrivee;
+Pioche;mets une ou plusieurs cartes du deck dans la main;pioche;0;arrivee
+Provocation;oblige l'adversaire à cibler le serviteur;effetPermanent;0;arrivee+disparition
+Tir des arcanes;inflige 2 dégats au héros;attaqueDuHéros;2;arrivee;
